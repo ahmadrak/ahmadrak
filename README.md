@@ -59,5 +59,5 @@ I'm interested in Full-Stack Development, Application Support, Business Systems,
 ## 📫 Connect
 
 - GitHub: https://github.com/ahmadrak
-- LinkedIn: Add your LinkedIn URL
-- Portfolio: Add your portfolio URL
+- LinkedIn: linkedin.com/in/ahmad-ali-578070aa
+- Portfolio: my-portfolio-tau-seven-26.vercel.app
